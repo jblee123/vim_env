@@ -1,0 +1,13 @@
+inoremap jj <ESC>
+
+filetype plugin indent on
+syntax on
+set encoding=utf-8
+
+color wombat
+
+let g:netrw_liststyle=3
+
+set guifont=Consolas
+
+set number
