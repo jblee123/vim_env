@@ -11,3 +11,10 @@ let g:netrw_liststyle=3
 set guifont=Consolas
 
 set number
+set ruler
+
+set colorcolumn=81,101
+highlight ColumnColor guibg=#3d3d3d
+
+set listchars=tab:>-,trail:~
+set list
