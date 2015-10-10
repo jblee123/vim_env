@@ -18,3 +18,5 @@ highlight ColumnColor guibg=#3d3d3d
 
 set listchars=tab:>-,trail:~
 set list
+
+set backspace=indent,eol,start
